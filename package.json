@@ -1,0 +1,34 @@
+{
+  "name": "blocky",
+  "version": "1.0.0",
+  "description": "Yet another colored console logger. Print your messages in colorful blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmahmud/blocky.git"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "color",
+    "print",
+    "write",
+    "stdout",
+    "blocky",
+    "loggy",
+    "chalk",
+    "block"
+  ],
+  "author": "Pallab Mahmud <pmahmud@cs.uoregon.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmahmud/blocky/issues"
+  },
+  "homepage": "https://github.com/pmahmud/blocky#readme",
+  "dependencies": {
+    "chalk": "^1.1.0"
+  }
+}

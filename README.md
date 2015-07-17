@@ -14,11 +14,17 @@ blocky = require('blocky');
 
 ```javascript
 blocky.red('hello world');
+blocky.error('hello world');
 ```
 
 ```javascript
-blocky.info('hello world');
+blocky.yellow('hello world');
+blocky.warning('hello world');
 ```
 
+```javascript
+blocky.yellow('hello world');
+blocky.warning('hello world');
+```
 
-
+![blocky logo](https://raw.github.com/pmahmud/blocky/master/assets/img.png)
