@@ -27,4 +27,4 @@ blocky.yellow('hello world');
 blocky.warning('hello world');
 ```
 
-![blocky logo](https://raw.github.com/pmahmud/blocky/master/assets/img.png)
+![blocky logo](https://raw.github.com/pmahmud/blocky/tree/master/assets/img.png)
