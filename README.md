@@ -1,5 +1,7 @@
 # blocky
 Yet another colored console logger. Print your messages in colorful blocks.
+#### Screenshot
+![blocky logo](https://raw.githubusercontent.com/pmahmud/blocky/master/assets/screenshot.png)
 
 #### Installation
 ```bash
@@ -9,8 +11,6 @@ Then require it in yor module:
 ```javascript
 blocky = require('blocky');
 ```
-#### Screenshot
-![blocky logo](https://raw.githubusercontent.com/pmahmud/blocky/master/assets/screenshot.png)
 
 #### Example
 
