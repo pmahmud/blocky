@@ -9,6 +9,8 @@ Then require it in yor module:
 ```javascript
 blocky = require('blocky');
 ```
+#### Screenshot
+![blocky logo](https://raw.githubusercontent.com/pmahmud/blocky/master/assets/screenshot.png)
 
 #### Example
 
@@ -27,4 +29,3 @@ blocky.yellow('hello world');
 blocky.warning('hello world');
 ```
 
-![blocky logo](https://raw.githubusercontent.com/pmahmud/blocky/master/assets/screenshot.png)
