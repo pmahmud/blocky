@@ -7,7 +7,7 @@ Yet another colored console logger. Print your messages in colorful blocks.
 ```bash
 > npm install blocky
 ```
-Then require it in yor module:
+Then require it in your module:
 ```javascript
 blocky = require('blocky');
 ```
